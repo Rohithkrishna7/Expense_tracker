@@ -7,15 +7,12 @@ A full-stack expense tracking application built with FastAPI (Backend) and HTML/
 - Monthly summary reports
 - Export all expenses to Excel (.xlsx)
 
-## Setup Instructions
-
 ### Prerequisites
 - Python 3.9+
-- A modern web browser
 
 ### Backend Setup
 
-1. Open a terminal and navigate to the project root directory (`C:\projects\expense_tracker`).
+1. Open a terminal and navigate to the project root directory.
 2. (Optional but recommended) Create a virtual environment:
    ```bash
    python -m venv venv
