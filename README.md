@@ -21,11 +21,7 @@ A full-stack expense tracking application built with FastAPI (Backend) and HTML/
    python -m venv venv
    .\venv\Scripts\activate
    ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Start the FastAPI server:
+3. Start the FastAPI server:
    ```bash
    python -m uvicorn backend.main:app --reload
    ```
